@@ -1,0 +1,132 @@
+/*
+Theme Name: Teluro Child
+Template: teluro
+Author: Extend Themes
+Author URI: https://extendthemes.com/
+Description: Teluro is a beautiful, very customizable, multipurpose theme that you can use to create amazing websites through drag and drop. It comes with a pre-designed home page, 5 header designs and over 35 ready-to-use content blocks that you can easily customize. You can also design your own custom blocks by combining more than 25 drag and drop components. Teluro offers lots of customization options (video background, slideshow background, header content types, etc) to help you create a website that stands out in no time. It is also designed with responsiveness, to work on mobile devices right out of the box. Teluro is the only theme you will ever need! CHECK OUT THE DEMOS: https://colibriwp.com/go/teluro-demos
+Tags: entertainment,food-and-drink,portfolio,one-column,two-columns,right-sidebar,grid-layout,custom-header,custom-menu,custom-logo,full-width-template,theme-options,translation-ready,featured-images,threaded-comments
+Version: 1.0.25.1653994919
+Updated: 2022-05-31 13:01:59
+
+*/
+
+
+#colibri .style-local-130-h25-outer {
+    display: none;
+
+}
+
+#colibri .style-57 {
+    height: 120px;
+}
+
+.h-social-icons {
+    padding-right: 10px;
+}
+
+div.wpforms-container-full .wpforms-form .wpforms-field {
+    width: 450px;
+    margin-left: -50px;
+}
+
+.woocommerce-page .content .h-section,
+.woocommerce .content .h-section {
+    background-color: white;
+}
+
+.woocommerce-page .content .h-section,
+.woocommerce .content .h-section p {
+    font-family: "antic didone", serif;
+
+}
+
+#colibri .woocommerce-store-notice,
+#colibri.woocommerce .content .h-section input[type=submit],
+#colibri.woocommerce-page .content .h-section input[type=button],
+#colibri.woocommerce .content .h-section input[type=button],
+#colibri.woocommerce-page .content .h-section .button,
+#colibri.woocommerce .content .h-section .button,
+#colibri.woocommerce-page .content .h-section a.button,
+#colibri.woocommerce .content .h-section a.button,
+#colibri.woocommerce-page .content .h-section button.button,
+#colibri.woocommerce .content .h-section button.button,
+#colibri.woocommerce-page .content .h-section input.button,
+#colibri.woocommerce .content .h-section input.button,
+#colibri.woocommerce-page .content .h-section input#submit,
+#colibri.woocommerce .content .h-section input#submit,
+#colibri.woocommerce-page .content .h-section a.added_to_cart,
+#colibri.woocommerce .content .h-section a.added_to_cart,
+#colibri.woocommerce-page .content .h-section .ui-slider-range,
+#colibri.woocommerce .content .h-section .ui-slider-range,
+#colibri.woocommerce-page .content .h-section .ui-slider-handle,
+#colibri.woocommerce .content .h-section .ui-slider-handle {
+    background-color: #E9E6D9;
+
+}
+
+#colibri .woocommerce-store-notice:hover,
+#colibri .woocommerce-store-notice:focus,
+#colibri .woocommerce-store-notice:active,
+#colibri.woocommerce .content .h-section input[type=submit]:hover,
+#colibri.woocommerce .content .h-section input[type=submit]:focus,
+#colibri.woocommerce .content .h-section input[type=submit]:active,
+#colibri.woocommerce-page .content .h-section input[type=button]:hover,
+#colibri.woocommerce-page .content .h-section input[type=button]:focus,
+#colibri.woocommerce-page .content .h-section input[type=button]:active,
+#colibri.woocommerce .content .h-section input[type=button]:hover,
+#colibri.woocommerce .content .h-section input[type=button]:focus,
+#colibri.woocommerce .content .h-section input[type=button]:active,
+#colibri.woocommerce-page .content .h-section .button:hover,
+#colibri.woocommerce-page .content .h-section .button:focus,
+#colibri.woocommerce-page .content .h-section .button:active,
+#colibri.woocommerce .content .h-section .button:hover,
+#colibri.woocommerce .content .h-section .button:focus,
+#colibri.woocommerce .content .h-section .button:active,
+#colibri.woocommerce-page .content .h-section a.button:hover,
+#colibri.woocommerce-page .content .h-section a.button:focus,
+#colibri.woocommerce-page .content .h-section a.button:active,
+#colibri.woocommerce .content .h-section a.button:hover,
+#colibri.woocommerce .content .h-section a.button:focus,
+#colibri.woocommerce .content .h-section a.button:active,
+#colibri.woocommerce-page .content .h-section button.button:hover,
+#colibri.woocommerce-page .content .h-section button.button:focus,
+#colibri.woocommerce-page .content .h-section button.button:active,
+#colibri.woocommerce .content .h-section button.button:hover,
+#colibri.woocommerce .content .h-section button.button:focus,
+#colibri.woocommerce .content .h-section button.button:active,
+#colibri.woocommerce-page .content .h-section input.button:hover,
+#colibri.woocommerce-page .content .h-section input.button:focus,
+#colibri.woocommerce-page .content .h-section input.button:active,
+#colibri.woocommerce .content .h-section input.button:hover,
+#colibri.woocommerce .content .h-section input.button:focus,
+#colibri.woocommerce .content .h-section input.button:active,
+#colibri.woocommerce-page .content .h-section input#submit:hover,
+#colibri.woocommerce-page .content .h-section input#submit:focus,
+#colibri.woocommerce-page .content .h-section input#submit:active,
+#colibri.woocommerce .content .h-section input#submit:hover,
+#colibri.woocommerce .content .h-section input#submit:focus,
+#colibri.woocommerce .content .h-section input#submit:active,
+#colibri.woocommerce-page .content .h-section a.added_to_cart:hover,
+#colibri.woocommerce-page .content .h-section a.added_to_cart:focus,
+#colibri.woocommerce-page .content .h-section a.added_to_cart:active,
+#colibri.woocommerce .content .h-section a.added_to_cart:hover,
+#colibri.woocommerce .content .h-section a.added_to_cart:focus,
+#colibri.woocommerce .content .h-section a.added_to_cart:active,
+#colibri.woocommerce-page .content .h-section .ui-slider-range:hover,
+#colibri.woocommerce-page .content .h-section .ui-slider-range:focus,
+#colibri.woocommerce-page .content .h-section .ui-slider-range:active,
+#colibri.woocommerce .content .h-section .ui-slider-range:hover,
+#colibri.woocommerce .content .h-section .ui-slider-range:focus,
+#colibri.woocommerce .content .h-section .ui-slider-range:active,
+#colibri.woocommerce-page .content .h-section .ui-slider-handle:hover,
+#colibri.woocommerce-page .content .h-section .ui-slider-handle:focus,
+#colibri.woocommerce-page .content .h-section .ui-slider-handle:active,
+#colibri.woocommerce .content .h-section .ui-slider-handle:hover,
+#colibri.woocommerce .content .h-section .ui-slider-handle:focus,
+#colibri.woocommerce .content .h-section .ui-slider-handle:active {
+    background-color: black;
+}
+
+#colibri .style-370 {
+    margin-top: 0px;
+}
